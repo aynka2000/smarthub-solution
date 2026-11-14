@@ -1,8 +1,6 @@
 # Smart Hub Solution — website
 
-Static company website for Smart Hub Solution (smarthubsolution.com), rebuilt
-from the September 2025 Wayback Machine crawl after the original GoDaddy
-hosting was lost.
+Static company website for Smart Hub Solution (smarthubsolution.com)
 
 ## How it is published
 
