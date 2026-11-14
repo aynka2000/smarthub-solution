@@ -51,7 +51,6 @@ nav .sub a { font-weight: 500; }
 .content li { margin-bottom: 5px; }
 .content figure { margin: 18px 0; }
 .content figure img { border-radius: 8px; box-shadow: 0 4px 18px rgba(11,42,74,.12); }
-.archive-note { background: #fff8e1; border: 1px solid #ffe082; border-radius: 6px; padding: 10px 14px; font-size: 14px; color: #6d4c00; }
 
 /* Hero */
 .hero { display: flex; gap: 30px; align-items: center; background: linear-gradient(135deg, var(--navy), var(--blue)); color: #fff; border-radius: 12px; padding: 40px 36px; margin-bottom: 34px; }
