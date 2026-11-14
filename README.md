@@ -5,7 +5,7 @@ Static company website for Smart Hub Solution (smarthubsolution.com)
 ## How it is published
 
 - Hosting: Netlify (free Starter), site `transcendent-bombolone-46aa1b`,
-  custom domain `smarthubsolution.com` (DNS at GoDaddy).
+  custom domain `smarthubsolution.com`.
 - This repo is the source of truth. Pushing to `main` deploys automatically
   (Netlify is linked to this repo; no build command, publish directory is
   the repo root).
@@ -31,6 +31,5 @@ Static company website for Smart Hub Solution (smarthubsolution.com)
 ## Do not change
 
 - File and folder names (URLs depend on them).
-- DNS records at GoDaddy: A `@` → `75.2.60.5`, CNAME `www` →
-  `transcendent-bombolone-46aa1b.netlify.app`. Leave the MX/TXT email
-  records alone.
+- The domain's DNS records — they point the domain at this site and carry
+  the email setup. If DNS ever needs work, ask Siva first.
