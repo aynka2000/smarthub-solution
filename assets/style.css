@@ -92,7 +92,6 @@ footer { background: var(--navy); color: #cfe0ef; margin-top: 20px; }
 footer h4 { color: #fff; margin: 0 0 10px; }
 footer a { color: #9fd0ff; }
 .foot-bottom { border-top: 1px solid rgba(255,255,255,.15); padding: 16px 0 22px; font-size: 13px; color: #9db4c8; }
-.rebuild-note { font-size: 12.5px; color: #8aa5ba; }
 
 @media (max-width: 760px) {
   .hero { flex-direction: column; padding: 28px 22px; }
